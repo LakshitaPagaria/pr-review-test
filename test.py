@@ -3,3 +3,6 @@ def multiplication():
 
 def greet():
     print("Hello")
+
+def add():
+    print(3+2+3)
