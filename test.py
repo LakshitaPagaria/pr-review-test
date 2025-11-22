@@ -3,3 +3,5 @@ def hello():
     print("How are you?")
     print("Hello World!!!!!!")
     print(2+2+23)
+def greet():
+    print("Good evening")
