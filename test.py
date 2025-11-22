@@ -5,3 +5,5 @@ def hello():
     print(2+2+23)
 def greet():
     print("Good evening")
+def calculate():
+    print(5*3)
